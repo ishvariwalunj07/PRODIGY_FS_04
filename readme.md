@@ -9,25 +9,8 @@
 ![Next.js-chat-app Screenshot](next-js-frontend/public/images/dekstop-screenshots/poll-creation.png)  
 ![Next.js-chat-app Screenshot](next-js-frontend/public/images/dekstop-screenshots/sending-gif.png)  
 ![Next.js-chat-app Screenshot](next-js-frontend/public/images/dekstop-screenshots/uploading-attachments.png)
+'''
 
-
-<!-- ## **Responsive Design 📱**
-
-<div>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/home-screen.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/call-history.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/incoming-call.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/ongoing-call.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/chat-view.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/reaction-and-unsend-feature.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/add-caption-on-photo.png"/>
-<img style="object-fit: contain;" src="next-js-frontend/public/images/mobile-screenshots/chat-details.png"/>
-</div>
-
-
---- -->
-
----
 ## **🚀 Features**  
 
 ### 💬 **Chat & Messaging**  
@@ -144,15 +127,7 @@ At [Mernchat](https://mernchat.in), i am committed to transparency and security.
 - **🛠️ UUID** – Unique ID generation.  
 - **⚙️ dotenv** – Environment variable management.  
 
----
-
-## **🚀 Getting Started**  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/RishiBakshii/nextjs-chat-app
-cd nextjs-chat-app
-```
+-
 
 ### **2️⃣ Set Up Environment Variables**  
 
@@ -243,49 +218,3 @@ If you are making structural changes and need to apply existing migrations:
   ```bash
   npm run migrate:dev
   ```
-- **Production:**  
-  ```bash
-  npm run migrate:prod
-  ```
-
-🚀 **Note:**  
-- `db push` is useful when setting up the database initially or for quick schema changes **without** migration tracking.  
-- `migrate deploy` ensures **existing** migrations are applied in production and development.  
-
----
-
-
-## **💡 Contribution Guide**  
-Contributions are welcome! To contribute:  
-1. **Fork** the repository.  
-2. **Create a branch**:  
-   ```bash
-   git checkout -b feature-branch
-   ```  
-3. **Commit your changes**:  
-   ```bash
-   git commit -m "Add new feature"
-   ```  
-4. **Push to GitHub**:  
-   ```bash
-   git push origin feature-branch
-   ```  
-5. **Open a Pull Request** 🚀  
-
----
-
-## **📧 Contact**  
-For feedback or queries, reach out:  
-🔗 **[LinkedIn @Rishi Bakshi](https://www.linkedin.com/in/rishi-bakshi/)**
-<br/>
-📩 **[rishibakshiofficial@gmail.com](mailto:rishibakshiofficial@gmail.com)**  
-
----
-
-![GitHub Repo stars](https://img.shields.io/github/stars/RishiBakshii/nextjs-chat-app?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/RishiBakshii/nextjs-chat-app?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/RishiBakshii/nextjs-chat-app)  
-![GitHub license](https://img.shields.io/github/license/RishiBakshii/nextjs-chat-app)  
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
-
----
